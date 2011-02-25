@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@android:drawable/ic_menu_upload" android:id="@id/donate_to_developer" android:visible="false" android:title="@string/donate_to_developer" />
+    <item android:icon="@android:drawable/ic_menu_more" android:id="@id/developer_homepage" android:visible="false" android:title="@string/developer_homepage" />
+</menu>

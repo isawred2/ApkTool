@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <item type="id" name="adsense_container">false</item>
+    <item type="id" name="adview">false</item>
+    <item type="id" name="LinearLayout01">false</item>
+    <item type="id" name="LinearLayout03">false</item>
+    <item type="id" name="notificationIcon">false</item>
+    <item type="id" name="notificationPercentage">false</item>
+    <item type="id" name="LinearLayout02">false</item>
+    <item type="id" name="notificationTitle">false</item>
+    <item type="id" name="ProgressBar01">false</item>
+    <item type="id" name="AlarmName">false</item>
+    <item type="id" name="donate_to_developer">false</item>
+    <item type="id" name="developer_homepage">false</item>
+    <item type="id" name="flash_override">false</item>
+    <item type="id" name="clear_cache">false</item>
+    <item type="id" name="changelog">false</item>
+    <item type="id" name="settings">false</item>
+</resources>

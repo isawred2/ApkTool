@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="manage_options">
+        <item>Restauration</item>
+        <item>Renommer</item>
+        <item>Effacer</item>
+    </string-array>
+    <string-array name="install_options">
+        <item>Sauvegarde ROM actuelle</item>
+        <item>Effacer Data et Cache</item>
+    </string-array>
+    <string-array name="restore_partitions">
+        <item>Restauration Boot</item>
+        <item>Restauration System</item>
+        <item>Restauration Data</item>
+        <item>Restauration Cache</item>
+        <item>Restauration SD-Ext</item>
+    </string-array>
+    <string-array name="ext_size_options">
+        <item>128MB</item>
+        <item>256MB</item>
+        <item>512MB</item>
+    </string-array>
+    <string-array name="swap_size_options">
+        <item>0MB</item>
+        <item>32MB</item>
+        <item>64MB</item>
+        <item>128MB</item>
+        <item>256MB</item>
+    </string-array>
+    <string-array name="automatic_backup_frequencies">
+        <item>Tous les jours</item>
+        <item>Tous les deux jours</item>
+        <item>Tous les trois jours</item>
+        <item>Tous les quatre jours</item>
+        <item>Tous les cinq jours</item>
+        <item>Tous les six jours</item>
+        <item>Tous les sept jours</item>
+    </string-array>
+</resources>

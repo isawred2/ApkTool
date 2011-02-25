@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference android:title="@string/update_notifications" android:key="update_notifications" android:summary="@string/update_notifications_enabled" />
+    <CheckBoxPreference android:title="@string/developer_mode" android:key="developer_mode" android:summary="@string/developer_mode_off" />
+    <CheckBoxPreference android:title="@string/automatic_backup" android:key="automatic_backup" android:summary="@string/automatic_backup_disabled" />
+    <CheckBoxPreference android:title="@string/analytics" android:key="analytics" android:summary="@string/analytics_off" />
+    <CheckBoxPreference android:title="@string/fast_nandroid" android:key="fast_nandroid" android:summary="@string/fast_nandroid_off" />
+    <CheckBoxPreference android:title="@string/erase_recovery" android:key="erase_recovery" android:summary="@string/erase_recovery_off" />
+    <CheckBoxPreference android:title="@string/showads" android:key="showads" android:summary="@string/showads_summary" />
+    <Preference android:title="@string/credits" android:key="credits" android:summary="@string/credits_summary" />
+</PreferenceScreen>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="manage_options">
+        <item>リストア</item>
+        <item>リネーム</item>
+        <item>削除</item>
+    </string-array>
+    <string-array name="install_options">
+        <item>ROMのバックアップ</item>
+        <item>データとキャッシュのワイプ</item>
+    </string-array>
+    <string-array name="restore_partitions">
+        <item>Bootのリストア</item>
+        <item>Systemのリストア</item>
+        <item>Dataのリストア</item>
+        <item>Cacheのリストア</item>
+        <item>SD-Extのリストア</item>
+    </string-array>
+    <string-array name="automatic_backup_frequencies">
+        <item>毎日</item>
+        <item>2日おき</item>
+        <item>3日おき</item>
+        <item>4日おき</item>
+        <item>5日おき</item>
+        <item>6日おき</item>
+        <item>7日おき</item>
+    </string-array>
+</resources>

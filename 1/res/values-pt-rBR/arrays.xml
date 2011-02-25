@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="manage_options">
+        <item>Restaurar</item>
+        <item>Renomear</item>
+        <item>Excluir</item>
+    </string-array>
+    <string-array name="install_options">
+        <item>Fazer backup da ROM atual</item>
+        <item>Limpar dados and cache</item>
+    </string-array>
+    <string-array name="restore_partitions">
+        <item>Restaurar boot</item>
+        <item>Restaurar sistema</item>
+        <item>Restaurar dados</item>
+        <item>Restaurar cache</item>
+        <item>Restaurar SD-Ext</item>
+    </string-array>
+    <string-array name="ext_size_options">
+        <item>128MB</item>
+        <item>256MB</item>
+        <item>512MB</item>
+    </string-array>
+    <string-array name="swap_size_options">
+        <item>0MB</item>
+        <item>32MB</item>
+        <item>64MB</item>
+        <item>128MB</item>
+        <item>256MB</item>
+    </string-array>
+    <string-array name="automatic_backup_frequencies">
+        <item>Diário</item>
+        <item>A cada dois dias</item>
+        <item>A cada três dias</item>
+        <item>A cada quatrodias</item>
+        <item>A cada cinco dias</item>
+        <item>A cada seis dias</item>
+        <item>A cada sete dias</item>
+    </string-array>
+</resources>
